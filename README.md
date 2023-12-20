@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer Specialized in Backend Development and armed with a deep interest in Blockchain Solutions.</h3>
 
-<img align = "right" alt = "coding" width = "400" height = "300" src = "https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+<img align = "right" alt = "coding" width = "300" height = "300" src = "https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaa3012&label=Profile%20views&color=0e75b6&style=flat" alt="alaa3012" /> </p>
 
