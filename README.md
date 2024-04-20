@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Nodejs, Solidity**
 
-- 📫 How to reach me **alaa.zingi.2004@gmail.com | aaz29@mail.aub.com**
+- 📫 How to reach me **alaazenji@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
